@@ -17,3 +17,6 @@ Palvelu on ainakin aluksi ilmainen kaikille 5/2016 asti.
 
 ## Miten voi osallistua? 
 Helpoin ja pienimmän kynnyksen tapa osallistua on kertoa mitä ominaisuuksia sinä palvelulta odotat. Kerro tarpeesi niin sanotun käyttäjätarinan muodossa: "Opettaja voi hyväksyä ilmoittautuneen opiskelijan kurssille", "Kehittäjä löytää tarjolla olevat autentikointitavat esimerkkikoodeineen". [Käyttäjätarinat kerätään Githubiin](https://github.com/Digipalvelutehdas/API-katalogi/issues), josta tiimi poimii tarinoita toteutukseen.
+
+## Koska palvelu on käytössä?
+Ensimmäinen versio palvelusta otetaan käyttöön syksyn 2015 aikana. 
