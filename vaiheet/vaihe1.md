@@ -7,11 +7,15 @@ API- hallinta lienee liian rajaava termi. Enemmän kyse on API-keskuksesta tai d
 
 #2. Projektin sisältö
 
-##2.1. Lopputulokset
+##2.1. Ajankohta ja kesto
+* Projekti toteutetaan 1.9.2015 - 1.12.2015 välisenä aikana.
+* Kesto 3 kuukautta. 
 
-##2.2. Projektin kuvaus ja kohde.
+##2.2. Lopputulokset
 
-##2.3. Ratkottavat ongelmat
+##2.3. Projektin kuvaus ja kohde.
+
+##2.4. Ratkottavat ongelmat
 
 Ei ole olemassa kehittäjäystävällistä palvelua, josta löytyisi kootusti opetussektorin API:en tiedot. 
 Tämä puolestaan hidastaa palvelukehitystä huomattavasti. Lisäksi innovaatiot monesti tapahtuvat organisaation 
@@ -19,11 +23,11 @@ ulkopuolella ja vain avaamalla rajapinnat, voimme saada julkishallinnon tietovar
 laajaan hyötykäyttöön.
 
 
-##2.4. Projektin tuotoksen kuvaus
+##2.5. Projektin tuotoksen kuvaus
 
-##2.5. Projektin omistaja.
+##2.6. Projektin omistaja.
 
-##2.6. Toteutuksen osapuolet
+##2.7. Toteutuksen osapuolet
 
 #3. Toteutus
 
