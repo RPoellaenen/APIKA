@@ -1,5 +1,8 @@
 # API-hallinta
 
+## Perustiedot
+* **Tuoteomistaja**: Jarkko Moilanen (OKM)
+
 ## Ongelma
 Ei ole olemassa kehittäjäystävällistä palvelua, josta löytyisi kootusti opetussektorin API:en tiedot. Tämä puolestaan hidastaa palvelukehitystä huomattavasti. Lisäksi innovaatiot monesti tapahtuvat organisaation ulkopuolella ja vain avaamalla rajapinnat, voimme saada julkishallinnon tietovarannot ja toimintarajapinnat laajaan hyötykäyttöön.  
 
