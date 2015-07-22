@@ -8,8 +8,8 @@ API- hallinta lienee liian rajaava termi. Enemmän kyse on API-keskuksesta tai d
 #2. Projektin sisältö
 
 ##2.1. Ajankohta ja kesto
-* Projekti toteutetaan 1.9.2015 - 1.12.2015 välisenä aikana.
-* Kesto 3 kuukautta. 
+* Projekti toteutetaan 1.10.2015 - 1.12.2015 välisenä aikana.
+* Kesto 2 kuukautta. 
 
 ##2.2. Lopputulokset
 
