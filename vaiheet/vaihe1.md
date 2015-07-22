@@ -19,51 +19,54 @@ ulkopuolella ja vain avaamalla rajapinnat, voimme saada julkishallinnon tietovar
 laajaan hyötykäyttöön.
 
 
-2.4. Projektin tuotoksen kuvaus
+##2.4. Projektin tuotoksen kuvaus
 
-2.5. Projektin omistaja.
+##2.5. Projektin omistaja.
 
-2.6. Toteutuksen osapuolet
+##2.6. Toteutuksen osapuolet
 
-3. Toteutus
+#3. Toteutus
 
-3.1. Läpiviennin yleiset periaatteet
+##3.1. Läpiviennin yleiset periaatteet
 
-3.2. Aikataulu ja vaiheistus
+##3.2. Aikataulu ja vaiheistus
 
-3.3. Vaiheet
+##3.3. Vaiheet
 
-3.3.1. [Vaihe 1]
+###3.3.1. [Vaihe 1]
 
-3.3.3. [Vaihe 2]
+###3.3.3. [Vaihe 2]
 
-3.3.4. [Vaihe 3]
+###3.3.4. [Vaihe 3]
 
-4. Projektin organisointi
+#4. Projektin organisointi
 
-4.1. Projektin hallinnollinen organisointi
+##4.1. Projektin hallinnollinen organisointi
 
-4.2. Ohjausryhmä
+##4.2. Ohjausryhmä
 
-4.3. Roolit, vastuut ja velvollisuudet
+##4.3. Roolit, vastuut ja velvollisuudet
 
-4.4. Viestintä ja tiedonvaihto.
+##4.4. Viestintä ja tiedonvaihto.
 
-4.5. Tuotokset
+##4.5. Tuotokset
 
-5. Työmääräarvio ja kustannusarvio. (edited)
+#5. Työmääräarvio ja kustannusarvio. (edited)
 
-Ongelma
+#6. Muuta
 
-Onko se avointa lähdekoodia?
+## Onko se avointa lähdekoodia?
 
 Toteutus tulee olemaan API Umbrella pohjainen. Ratkaisua parannetaan erilaisilla toiminnoilla ja parannukset kontribuoidaan takaisin pääprojektiin aina kun mahdollista.
-Mitä käyttö maksaa?
+
+## Mitä käyttö maksaa?
 
 Palvelu on ainakin aluksi ilmainen kaikille 5/2016 asti.
-Miten voi osallistua?
+
+## Miten voi osallistua?
 
 Helpoin ja pienimmän kynnyksen tapa osallistua on kertoa mitä ominaisuuksia sinä palvelulta odotat. Kerro tarpeesi niin sanotun käyttäjätarinan muodossa: "Opettaja voi hyväksyä ilmoittautuneen opiskelijan kurssille", "Kehittäjä löytää tarjolla olevat autentikointitavat esimerkkikoodeineen". Käyttäjätarinat kerätään Githubiin, josta tiimi poimii tarinoita toteutukseen.
-Koska palvelu on käytössä?
+
+## Koska palvelu on käytössä?
 
 Ensimmäinen versio palvelusta otetaan käyttöön syksyn 2015 aikana. 
