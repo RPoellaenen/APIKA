@@ -16,6 +16,8 @@ API- hallinta lienee liian rajaava termi. Enemmän kyse on API-keskuksesta tai d
 
 ## 2.3. Ratkottavat ongelmat
 
+Ei ole olemassa kehittäjäystävällistä palvelua, josta löytyisi kootusti opetussektorin API:en tiedot. Tämä puolestaan hidastaa palvelukehitystä huomattavasti. Lisäksi innovaatiot monesti tapahtuvat organisaation ulkopuolella ja vain avaamalla rajapinnat, voimme saada julkishallinnon tietovarannot ja toimintarajapinnat laajaan hyötykäyttöön.  
+
 ## 2.4. Projektin tuotoksen kuvaus
 
 ## 2.5. Projektin omistaja.
@@ -48,23 +50,9 @@ API- hallinta lienee liian rajaava termi. Enemmän kyse on API-keskuksesta tai d
 
 # 4.5. Tuotokset
 
-#5. Työmääräarvio ja kustannusarvio. (edited)
+#5. Työmääräarvio ja kustannusarvio.
 
-
-
-
-
-
-
-
-
-
-
-
-
-## Ongelma
-Ei ole olemassa kehittäjäystävällistä palvelua, josta löytyisi kootusti opetussektorin API:en tiedot. Tämä puolestaan hidastaa palvelukehitystä huomattavasti. Lisäksi innovaatiot monesti tapahtuvat organisaation ulkopuolella ja vain avaamalla rajapinnat, voimme saada julkishallinnon tietovarannot ja toimintarajapinnat laajaan hyötykäyttöön.  
-
+#6. Muuta  
 
 ## Onko se avointa lähdekoodia? 
 Toteutus tulee olemaan API Umbrella pohjainen. Ratkaisua parannetaan erilaisilla toiminnoilla ja parannukset kontribuoidaan takaisin pääprojektiin aina kun mahdollista. 
