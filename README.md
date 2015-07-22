@@ -9,4 +9,5 @@ API- hallinta lienee liian rajaava termi. Enemmän kyse on API-keskuksesta tai d
 
 # 2. Vaiheet
 Linkit kehitysprojektien suunnitelmiin vaiheittain
-* [Vaihe1 - 9/2015 - 12/2015](https://github.com/Digipalvelutehdas/API-katalogi/blob/master/vaiheet/vaihe1.md)
+* [Vaihe 1 - 9/2015 - 12/2015](https://github.com/Digipalvelutehdas/API-katalogi/blob/master/vaiheet/vaihe1.md)
+* Vaihe 2 - 2/2015 - 5/2015
