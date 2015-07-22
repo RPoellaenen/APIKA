@@ -16,4 +16,4 @@ Toteutus tulee olemaan API Umbrella pohjainen. Ratkaisua parannetaan erilaisilla
 Palvelu on ainakin aluksi ilmainen kaikille 5/2016 asti.  
 
 ## Miten voi osallistua? 
-Helpoin ja pienimmän kynnyksen tapa osallistua on kertoa mitä ominaisuuksia sinä palvelulta odotat. Kerro tarpeesi niin sanotun käyttäjätarinan muodossa: "Opettaja voi hyväksyä ilmoittautuneen opiskelijan kurssille", "Kehittäjä löytää tarjolla olevat autentikointitavat esimerkkikoodeineen". 
+Helpoin ja pienimmän kynnyksen tapa osallistua on kertoa mitä ominaisuuksia sinä palvelulta odotat. Kerro tarpeesi niin sanotun käyttäjätarinan muodossa: "Opettaja voi hyväksyä ilmoittautuneen opiskelijan kurssille", "Kehittäjä löytää tarjolla olevat autentikointitavat esimerkkikoodeineen". Käyttäjätarinat kerätään Githubiin, josta tiimi poimii tarinoita toteutukseen. [](https://github.com/Digipalvelutehdas/API-katalogi/issues) 
