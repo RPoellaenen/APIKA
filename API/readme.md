@@ -1,4 +1,4 @@
-#APIKA API katalogin API:t 
+#APIKA - API katalogin API:t 
 
 ## Käyttöönotto
 Tapahtuu samasta paikasta kuin muiden API:en eli Digipalvelutehtaasta. 
