@@ -4,6 +4,10 @@
 
 ## 1.1. Palvelun visio
 
+**Asiakkaat**
+
+Palvelun ensisijainen asiakas on kehittäjä. Kehittäjällä viitataan palveluiden ja sovellusten kehittäjieen, jotka saattavat olla yritysten työntekijöitä, julkisen sektorin henkilöstöä tai vapaaehtoiskehittäjiä. Toissijainen asiakasryhmä on API:n tuottajat eli tyypillisesti erilaiset organisaatiot ja niissä API:en tuoteomistajat. 
+
 **Liityntäkatalogi**
 
 Palvelu on myös palveluvälyän liityntäkatalogin proof of concept. Sähköisten palveluiden toimintaperiaatteita ja rajapintoja kuvaileva luettelo. Liityntäkatalogin tarkoituksena on auttaa palvelun tuottajia ja toteuttajia kehittämään tehokkaampia sähköisiä palveluita ja tukemaan tietojen uudelleenkäyttöä. Liityntäkatalogiin kuvataan sähköiset palvelut, joissa käsiteltävät tiedot ovat muiden tietojärjestelmien hyödynnettävissä.
