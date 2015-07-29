@@ -74,10 +74,11 @@ laajaan hyötykäyttöön.
 
 ##3.1. Läpiviennin yleiset periaatteet
 
+* Kuvaa suhde KaPA ja palveluväylä hankkeeseen.  
+
 ##3.2. Aikataulu ja vaiheistus
 
 ##3.3. Vaiheet
-
 
 ###3.3.1. Suunnitelman laatiminen
 Laaditaan projektisuunnitelma (tämä dokumentti), jota voidaan käyttää kilpailutuksessa kuvauksena siitä mitä halutaan saada aikaiseksi. Suuunitelma kuvaa MVP eli minimi lopputuloksen, joka voidaan ylittää sikäli kuin nyt määritellyt tavoitteet osoittautuvat liian mataliksi. 
@@ -100,11 +101,24 @@ Vaiheen tuotokset:
 
 Vaiheen kesto: 
 * 1.9.-1.10.2015
-* 
+ 
 ###3.3.3. API -hallinnan pystytys
 Pystytetään API -hallinta käyttäen API umbrella pohjana, mutta paremmalla käyttäjäkokemuksella tehdyllä käyttöliittymällä. Apinf.com taustalla oleva ratkaisu on API umbrella pohjainen, mutta frontend on uusittu ja tehty Meteor alustan päälle. Ratkaisu on avointa lähdekoodia kokonaisuudessaan. 
 
-###3.3.4. [Vaihe 2]
+Vaiheen tuotokset:
+* API hallintaratkaisu (kehitysversio)
+
+Vaiheen kesto: 
+* 1.10.-1.11.2015
+
+###3.3.4. Kokemuksien kerääminen
+Kerätään palautetta eri organisaatioilta ja kehittäjiltä. Kerätään nousseet asiat kuten bugit ja uusia tarpeita kuvaavat käyttäjätarinat palvelun backlogiin Github palveluun jatkokäyttöä varten.
+
+Vaiheen tuotokset:
+* API hallintaratkaisu (kehitysversio)
+
+Vaiheen kesto: 
+* 1.11.-1.12.2015
 
 ###3.3.5. Evaluointi ja jatkotoimista päättäminen
 Evaluoidaan tulokset käyttäen yhteisten käytäntöjen määrittämää kehikkoa. Evaluoinnin tekee projektin alussa ja tässä dokumentissa määritetyistä osapuolista koostettu kehitysyhteisö. Osana evaluointia tulee tehdä päätös jatkotoimista eli käytännössä päätös siitä jatketaanko kehitystä vai ei. 
