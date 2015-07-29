@@ -38,7 +38,7 @@ API- hallinta lienee liian rajaava termi. Enemmän kyse on API-keskuksesta tai d
 * Kehittäjille:   
   * hakutoiminto
   * yhtenäistetty dokumentaatio eri rajapinnoille
-* API omistajat:
+* API omistajille/tuottajille:
   * swagger tuki 
   * pääsynhallinta
   * statistiikat käytöstä
