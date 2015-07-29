@@ -7,7 +7,10 @@ API -hallinta tai katalogi on palvelu, jonka kautta jaetaan tietoa opetussektori
 
 API- hallinta lienee liian rajaava termi. Enemmän kyse on API-keskuksesta tai developer portaalista. Palvelulla on muitakin käyttäjiä kuin vain "kuluttajat" eli API:en hyödyntäjät. Jostainhan ne rajapinnat sinne ilmestyy eli joku niitä ylläpitää, kehittää ja operoi. Palvelu tarjoaa API:en tuottajille helpon tavan kontrolloida kuka käyttää rajapintaa ja kuinka paljon. Lisäksi palvelussa näkyy API:n tuottamat virhetilanteet, kyselymäärät ja käyttäjämäärät graafeina ja lukuina. 
 
-Palvelu on myös palveluvälyän liityntäkatalogin proof of concept. Liityntäkatalogi sisältää enemmnä kuin API:en hallinnan....
+Palvelu on myös palveluvälyän liityntäkatalogin proof of concept. Liityntäkatalogi sisältää enemmnä kuin API:en hallinnan. Kansallisen palveluväylän liityntäkatalogi on palveluväylään liitettyjen palveluiden sekä niiden
+tietojen hyödyntämisen keskitetty esilletuontipaikka. Liityntäkatalogi on ihmisluettava portaali (www-
+sivusto), jossa on palvelukatalogin tapaan esitetty palveluväylässä olevat palveluita, mutta myös
+niiden teknisiä spesifikaatioita, tarkkoja tietosisältöjä sekä palvelunomistajien yhteystiedot.
 
 ## 1.2. Käyttäjätarinat
 * Kaikki käyttjätarinat ja tiedot bugeista kerätään Githubiin [Issue lista](https://github.com/Digipalvelutehdas/API-katalogi/issues)
