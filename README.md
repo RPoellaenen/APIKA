@@ -1,4 +1,4 @@
-# API-hallinta palvelu
+# Liityntäkatalogi PoC & API-hallinta palvelu
 
 # 1. Palvelun kuvaus
 
