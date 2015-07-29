@@ -50,7 +50,7 @@ API- hallinta lienee liian rajaava termi. Enemmän kyse on API-keskuksesta tai d
 * Eri toimialojen API -tuottajien tarpeita käyttäjätarinoina 
 
 
-##2.3. Projektin kuvaus ja kohde.
+##2.3. Projektin kuvaus ja kohde
 
 ##2.4. Ratkottavat ongelmat
 
