@@ -55,7 +55,7 @@ API- hallinta lienee liian rajaava termi. Enemmän kyse on API-keskuksesta tai d
   * pääsynhallinta
   * statistiikat käytöstä
   * kuormantasaus (cache)
-* Eri toimialojen API -tuottajien tarpeita käyttäjätarinoina 
+* Eri toimialojen API -tuottajien ja kehittäjien (hyödyntäjien) tarpeita käyttäjätarinoina 
 
 
 ##2.3. Projektin kuvaus ja kohde
