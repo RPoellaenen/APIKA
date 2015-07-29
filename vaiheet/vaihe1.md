@@ -61,6 +61,14 @@ laajaan hyötykäyttöön.
 ##2.6. Projektin omistaja.
 
 ##2.7. Toteutuksen osapuolet
+* VRK (palveluväylä asiantuntemus ja vastuu)
+* PRH (Rajapintojen tuottaja keskeisiin tietovarantoihin)
+* Vero
+* VM
+* OKM 
+* OPH
+* Helsinki loves developers (vahva kehittäjänäkökulma)
+* 6Aika -hanke (vahva avoimuuden näkökulma; tieto, API, hallinto yms)
 
 #3. Toteutus
 
