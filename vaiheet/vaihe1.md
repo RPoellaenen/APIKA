@@ -70,11 +70,44 @@ laajaan hyötykäyttöön.
 
 ##3.3. Vaiheet
 
-###3.3.1. [Vaihe 1]
 
-###3.3.3. [Vaihe 2]
+###3.3.1. Suunnitelman laatiminen
+Laaditaan projektisuunnitelma (tämä dokumentti), jota voidaan käyttää kilpailutuksessa kuvauksena siitä mitä halutaan saada aikaiseksi. Suuunitelma kuvaa MVP eli minimi lopputuloksen, joka voidaan ylittää sikäli kuin nyt määritellyt tavoitteet osoittautuvat liian mataliksi. 
 
-###3.3.4. [Vaihe 3]
+Vaiheen tuotokset:
+* Projektisuunnitelma
+* Kilpailutuksessa tarvittavat dokumentit
+
+Vaiheen kesto:
+* 1.7.-1.9.2015
+
+###3.3.2. Kilpailutus
+Kilpailutetaan toteutus edellä tuotettujen dokumenttien sisältämää tietoa hyväksykäyttäen. 
+
+Vaiheen tuotokset:
+* Kilpailutus asiakirjat
+* Vertailudokumentti
+* Hankintapäätös
+* Hankintasopimus
+
+Vaiheen kesto: 
+* 1.9.-1.10.2015
+* 
+###3.3.3. API -hallinnan pystytys
+Pystytetään API -hallinta käyttäen API umbrella pohjana, mutta paremmalla käyttäjäkokemuksella tehdyllä käyttöliittymällä. Apinf.com taustalla oleva ratkaisu on API umbrella pohjainen, mutta frontend on uusittu ja tehty Meteor alustan päälle. Ratkaisu on avointa lähdekoodia kokonaisuudessaan. 
+
+###3.3.4. [Vaihe 2]
+
+###3.3.5. Evaluointi ja jatkotoimista päättäminen
+Evaluoidaan tulokset käyttäen yhteisten käytäntöjen määrittämää kehikkoa. Evaluoinnin tekee projektin alussa ja tässä dokumentissa määritetyistä osapuolista koostettu kehitysyhteisö. Osana evaluointia tulee tehdä päätös jatkotoimista eli käytännössä päätös siitä jatketaanko kehitystä vai ei. 
+
+Vaiheen kesto: 
+* 15.12.-20.12.2015
+
+Vaiheen tuotokset: 
+* Evaluointidokumentti saaduista tuloksista
+* Päätös jatkotoimista
+
 
 #4. Projektin organisointi
 
@@ -96,7 +129,7 @@ laajaan hyötykäyttöön.
 
 Toteutus tulee olemaan API Umbrella pohjainen. Ratkaisua parannetaan erilaisilla toiminnoilla ja parannukset kontribuoidaan takaisin pääprojektiin aina kun mahdollista.
 
-## Mitä käyttö maksaa?
+## Mitä käyttö maksaa? 
 
 Palvelu on ainakin aluksi ilmainen kaikille 5/2016 asti.
 
