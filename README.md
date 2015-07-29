@@ -19,7 +19,7 @@ Liityntäkatalogi tulee toimimaan yhteisenä komponenttina kansallisen palveluv�
 * palvelulupaukset sekä
 * jatkossa myös rajapintojen testaustyökalut.
 
-Kansallisen palveluväylän liityntäkatalogi on palveluväylään liitettyjen palveluiden sekä niiden tietojen hyödyntämisen keskitetty esilletuontipaikka. Liityntäkatalogi on ihmisluettava portaali (www-sivusto), jossa on palvelukatalogin tapaan esitetty palveluväylässä olevat palveluita, mutta myös niiden teknisiä spesifikaatioita, tarkkoja tietosisältöjä sekä palvelunomistajien yhteystiedot.[Kansallisen palveluväylän liityntäkatalogin esiselvitys](http://pdfsr.com/pdf/kansallisen-palveluv-yl-n-liitynt-katalogin-esiselvitys) 
+Kansallisen palveluväylän liityntäkatalogi on palveluväylään liitettyjen palveluiden sekä niiden tietojen hyödyntämisen keskitetty esilletuontipaikka. Liityntäkatalogi on ihmisluettava portaali (www-sivusto), jossa on palvelukatalogin tapaan esitetty palveluväylässä olevat palveluita, mutta myös niiden teknisiä spesifikaatioita, tarkkoja tietosisältöjä sekä palvelunomistajien yhteystiedot.(Lähde: [Kansallisen palveluväylän liityntäkatalogin esiselvitys](http://pdfsr.com/pdf/kansallisen-palveluv-yl-n-liitynt-katalogin-esiselvitys)) 
 
 Palvelukatalogi ja liityntäkatalogi eroavatkin toisistaan käyttötavoissa - palvelukatalogissa voidaan tarjota esimerkiksi linkki sähköiseen veroilmoitukseen, kun taas liityntäkatalogissa kuvataan miten sähköisen veroilmoituksen voisi esimerkiksi integroida suoraan yrityksen taloushallinnon järjestelmiin. Liityntäkatalogi tarjoaa näyteikkunan palveluväylään liittyneistä palveluista ja sisältää myös teknisen ylläpitovälineen siellä näytettäville tiedoille.
 
