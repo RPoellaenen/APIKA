@@ -68,6 +68,11 @@ laajaan hyötykäyttöön.
 * **Tuoteomistaja:** N.N
 
 ##2.7. Toteutuksen osapuolet
+
+Kansallisen palveluarkkitehtuurin kehittämisen yhteydessä on perustettu kaksi yhteistyöryhmää ja
+yksityissektorin toimijoita varten kahdeksan sektorikohtaista (esim. energia, telekommunikaatio) referenssiryhmää joiden toiminnassa liityntäkatalogin on oleellista olla edustettuna. Kaikista sektoreista tulisi saada joku edustus vähintään testausvaiheeseen, joka on marraskuussa. 
+
+Alustavaa listaa: 
 * VRK (palveluväylä asiantuntemus ja vastuu)
 * PRH (Rajapintojen tuottaja keskeisiin tietovarantoihin)
 * Vero
