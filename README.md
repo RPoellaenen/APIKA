@@ -8,7 +8,14 @@
 
 Palvelu on myös palveluvälyän liityntäkatalogin proof of concept. Sähköisten palveluiden toimintaperiaatteita ja rajapintoja kuvaileva luettelo. Liityntäkatalogin tarkoituksena on auttaa palvelun tuottajia ja toteuttajia kehittämään tehokkaampia sähköisiä palveluita ja tukemaan tietojen uudelleenkäyttöä. Liityntäkatalogiin kuvataan sähköiset palvelut, joissa käsiteltävät tiedot ovat muiden tietojärjestelmien hyödynnettävissä.
 
-Liityntäkatalogi sisältää enemmnä kuin API:en hallinnan. Kansallisen palveluväylän liityntäkatalogi on palveluväylään liitettyjen palveluiden sekä niiden tietojen hyödyntämisen keskitetty esilletuontipaikka. Liityntäkatalogi on ihmisluettava portaali (www-sivusto), jossa on palvelukatalogin tapaan esitetty palveluväylässä olevat palveluita, mutta myös niiden teknisiä spesifikaatioita, tarkkoja tietosisältöjä sekä palvelunomistajien yhteystiedot. 
+Liityntäkatalogi tulee toimimaan yhteisenä komponenttina kansallisen palveluväylän hyödynnettävyyden takaamisessa. Sen kautta löytyy kaikki kansallisen palveluväylän liitynnät teknisine ja hallinnollisine kuvauksineen tuoden esille palveluista esimerkiksi
+
+* perustiedot,
+* tekniset toimintamallit,
+* palvelulupaukset sekä
+* jatkossa myös rajapintojen testaustyökalut.
+
+Kansallisen palveluväylän liityntäkatalogi on palveluväylään liitettyjen palveluiden sekä niiden tietojen hyödyntämisen keskitetty esilletuontipaikka. Liityntäkatalogi on ihmisluettava portaali (www-sivusto), jossa on palvelukatalogin tapaan esitetty palveluväylässä olevat palveluita, mutta myös niiden teknisiä spesifikaatioita, tarkkoja tietosisältöjä sekä palvelunomistajien yhteystiedot. 
 
 Palvelukatalogi ja liityntäkatalogi eroavatkin toisistaan käyttötavoissa - palvelukatalogissa voidaan tarjota esimerkiksi linkki sähköiseen veroilmoitukseen, kun taas liityntäkatalogissa kuvataan miten sähköisen veroilmoituksen voisi esimerkiksi integroida suoraan yrityksen taloushallinnon järjestelmiin. Liityntäkatalogi tarjoaa näyteikkunan palveluväylään liittyneistä palveluista ja sisältää myös teknisen ylläpitovälineen siellä näytettäville tiedoille.
 
