@@ -58,7 +58,10 @@ laajaan hyötykäyttöön.
 
 ##2.5. Projektin tuotoksen kuvaus
 
-##2.6. Projektin omistaja.
+##2.6. Projektin omistaja
+
+* **Projektin läpiviennistä vastaa:** N.N
+* **Tuoteomistaja:** N.N
 
 ##2.7. Toteutuksen osapuolet
 * VRK (palveluväylä asiantuntemus ja vastuu)
