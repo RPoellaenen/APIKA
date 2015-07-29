@@ -4,7 +4,7 @@
 
 ## 1.1. Palvelun visio
 
-**Liityntäkatalogi ja rekisteri**
+**Liityntäkatalogi ja -rekisteri**
 
 Palvelu on myös palveluvälyän liityntäkatalogin proof of concept. Sähköisten palveluiden toimintaperiaatteita ja rajapintoja kuvaileva luettelo. Liityntäkatalogin tarkoituksena on auttaa palvelun tuottajia ja toteuttajia kehittämään tehokkaampia sähköisiä palveluita ja tukemaan tietojen uudelleenkäyttöä. Liityntäkatalogiin kuvataan sähköiset palvelut, joissa käsiteltävät tiedot ovat muiden tietojärjestelmien hyödynnettävissä.
 
