@@ -83,11 +83,11 @@ laajaan hyötykäyttöön.
 ###3.3.1. Suunnitelman laatiminen
 Laaditaan projektisuunnitelma (tämä dokumentti), jota voidaan käyttää kilpailutuksessa kuvauksena siitä mitä halutaan saada aikaiseksi. Suuunitelma kuvaa MVP eli minimi lopputuloksen, joka voidaan ylittää sikäli kuin nyt määritellyt tavoitteet osoittautuvat liian mataliksi. 
 
-Vaiheen tuotokset:
+**Vaiheen tuotokset:**
 * Projektisuunnitelma
 * Kilpailutuksessa tarvittavat dokumentit
 
-Vaiheen kesto:
+**Vaiheen kesto:**
 * 1.7.-1.9.2015
 
 ###3.3.2. Kilpailutus
@@ -99,34 +99,36 @@ Vaiheen tuotokset:
 * Hankintapäätös
 * Hankintasopimus
 
-Vaiheen kesto: 
+**Vaiheen kesto:** 
 * 1.9.-1.10.2015
  
 ###3.3.3. API -hallinnan pystytys
 Pystytetään API -hallinta käyttäen API umbrella pohjana, mutta paremmalla käyttäjäkokemuksella tehdyllä käyttöliittymällä. Apinf.com taustalla oleva ratkaisu on API umbrella pohjainen, mutta frontend on uusittu ja tehty Meteor alustan päälle. Ratkaisu on avointa lähdekoodia kokonaisuudessaan. 
 
-Vaiheen tuotokset:
+**Vaiheen tuotokset:**
 * API hallintaratkaisu (kehitysversio)
 
-Vaiheen kesto: 
+**Vaiheen kesto:** 
 * 1.10.-1.11.2015
 
 ###3.3.4. Kokemuksien kerääminen
-Kerätään palautetta eri organisaatioilta ja kehittäjiltä. Kerätään nousseet asiat kuten bugit ja uusia tarpeita kuvaavat käyttäjätarinat palvelun backlogiin Github palveluun jatkokäyttöä varten.
+Kerätään palautetta eri organisaatioilta ja kehittäjiltä. Kerätään nousseet asiat kuten bugit ja uusia tarpeita kuvaavat käyttäjätarinat palvelun backlogiin Github palveluun jatkokäyttöä varten. Tarvitsee yhden henkilön koordinoimaan toimintaa. 
 
-Vaiheen tuotokset:
-* API hallintaratkaisu (kehitysversio)
+**Vaiheen tuotokset:**
+* Kehitystarpeet yhtenä julkisena backlogina. 
+* Kehitttäjien arvioita palvelusta
+* API:n omistajien/hallinnoijien näkemys ja tarpeet
 
-Vaiheen kesto: 
+**Vaiheen kesto:** 
 * 1.11.-1.12.2015
 
 ###3.3.5. Evaluointi ja jatkotoimista päättäminen
 Evaluoidaan tulokset käyttäen yhteisten käytäntöjen määrittämää kehikkoa. Evaluoinnin tekee projektin alussa ja tässä dokumentissa määritetyistä osapuolista koostettu kehitysyhteisö. Osana evaluointia tulee tehdä päätös jatkotoimista eli käytännössä päätös siitä jatketaanko kehitystä vai ei. 
 
-Vaiheen kesto: 
+***Vaiheen kesto:** 
 * 15.12.-20.12.2015
 
-Vaiheen tuotokset: 
+**Vaiheen tuotokset:** 
 * Evaluointidokumentti saaduista tuloksista
 * Päätös jatkotoimista
 
