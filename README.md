@@ -4,7 +4,7 @@
 
 ## 1.1. Palvelun visio
 
-**Liityntäkatalogi ja -rekisteri**
+**Liityntäkatalogi**
 
 Palvelu on myös palveluvälyän liityntäkatalogin proof of concept. Sähköisten palveluiden toimintaperiaatteita ja rajapintoja kuvaileva luettelo. Liityntäkatalogin tarkoituksena on auttaa palvelun tuottajia ja toteuttajia kehittämään tehokkaampia sähköisiä palveluita ja tukemaan tietojen uudelleenkäyttöä. Liityntäkatalogiin kuvataan sähköiset palvelut, joissa käsiteltävät tiedot ovat muiden tietojärjestelmien hyödynnettävissä.
 
@@ -12,7 +12,9 @@ Liityntäkatalogi sisältää enemmnä kuin API:en hallinnan. Kansallisen palvel
 
 Palvelukatalogi ja liityntäkatalogi eroavatkin toisistaan käyttötavoissa - palvelukatalogissa voidaan tarjota esimerkiksi linkki sähköiseen veroilmoitukseen, kun taas liityntäkatalogissa kuvataan miten sähköisen veroilmoituksen voisi esimerkiksi integroida suoraan yrityksen taloushallinnon järjestelmiin. Liityntäkatalogi tarjoaa näyteikkunan palveluväylään liittyneistä palveluista ja sisältää myös teknisen ylläpitovälineen siellä näytettäville tiedoille.
 
-Liityntärekisteri sisältää tiedot kansalliseen palveluväylään rekisteröidyistä sähköisistä palveluista. 
+**Hajautettu hallinta**
+
+Liityntäkatalogeja on useita. Jokaisella toimialalla on oma katalogi, jota se hallinnoi, ohjaa ja opastaa sen hyödyntäjiä. Hyödyntäjät ovat rajapintojen tuottajia. Kansallisen tason liityntäkatalogin tietosisältö muodostuu aggregoimalla toimialakohtaisten katalogien tiedot yhteen paikkaan rajapintoja hyödyntämällä. 
 
 **Kehittäjän tietokeskus**
 
