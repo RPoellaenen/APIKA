@@ -10,7 +10,13 @@ API- hallinta lienee liian rajaava termi. Enemmän kyse on API-keskuksesta tai d
 Palvelu on myös palveluvälyän liityntäkatalogin proof of concept. Liityntäkatalogi sisältää enemmnä kuin API:en hallinnan. Kansallisen palveluväylän liityntäkatalogi on palveluväylään liitettyjen palveluiden sekä niiden
 tietojen hyödyntämisen keskitetty esilletuontipaikka. Liityntäkatalogi on ihmisluettava portaali (www-
 sivusto), jossa on palvelukatalogin tapaan esitetty palveluväylässä olevat palveluita, mutta myös
-niiden teknisiä spesifikaatioita, tarkkoja tietosisältöjä sekä palvelunomistajien yhteystiedot.
+niiden teknisiä spesifikaatioita, tarkkoja tietosisältöjä sekä palvelunomistajien yhteystiedot. 
+
+Palvelukatalogi ja liityntäkatalogi eroavatkin toisistaan käyttötavoissa - palvelukatalogissa voidaan
+tarjota esimerkiksi linkki sähköiseen veroilmoitukseen, kun taas liityntäkatalogissa kuvataan miten
+sähköisen veroilmoituksen voisi esimerkiksi integroida suoraan yrityksen taloushallinnon
+järjestelmiin. Liityntäkatalogi tarjoaa näyteikkunan palveluväylään liittyneistä palveluista ja sisältää
+myös teknisen ylläpitovälineen siellä näytettäville tiedoille.
 
 ## 1.2. Käyttäjätarinat
 * Kaikki käyttjätarinat ja tiedot bugeista kerätään Githubiin [Issue lista](https://github.com/Digipalvelutehdas/API-katalogi/issues)
