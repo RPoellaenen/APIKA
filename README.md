@@ -42,7 +42,7 @@ API -hallinta tai katalogi on palvelu, jonka kautta jaetaan tietoa rajapinnoista
 
 API- hallinta lienee liian rajaava termi. Enemmän kyse on API-keskuksesta tai developer portaalista. Palvelulla on muitakin käyttäjiä kuin vain "kuluttajat" eli API:en hyödyntäjät. Jostainhan ne rajapinnat sinne ilmestyy eli joku niitä ylläpitää, kehittää ja operoi. Palvelu tarjoaa API:en tuottajille helpon tavan kontrolloida kuka käyttää rajapintaa ja kuinka paljon. Lisäksi palvelussa näkyy API:n tuottamat virhetilanteet, kyselymäärät ja käyttäjämäärät graafeina ja lukuina. 
 
-## 1.2. Käyttäjätarinat
+## 1.2. Käyttötapaukset (user story)
 * Kaikki käyttjätarinat ja tiedot bugeista kerätään Githubiin [Issue lista](https://github.com/Digipalvelutehdas/API-katalogi/issues)
 
 ## 1.3. Palvelun sijainti ja käyttöehdot
