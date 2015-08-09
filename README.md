@@ -46,7 +46,7 @@ API- hallinta lienee liian rajaava termi. Enemmän kyse on API-keskuksesta tai d
 * Kaikki käyttjätarinat ja tiedot bugeista kerätään Githubiin [Issue lista](https://github.com/Digipalvelutehdas/API-katalogi/issues)
 
 ## 1.3. Palvelun sijainti ja käyttöehdot
-* Palvelu löytyy osoitteesta: 
+* Palvelu löytyy osoitteesta: [apika.digipalvelutehdas.fi](https://apika.digipalvelutehdas.fi)
 * Käyttöehdot (jostain geneerinen kaikki vastuu jää käyttäjälle tyylinen dokumentti)
 
 # 2. Vaiheet
