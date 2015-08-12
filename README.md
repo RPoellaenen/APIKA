@@ -33,6 +33,8 @@ Kansallisen palveluväylän liityntäkatalogi on palveluväylään liitettyjen p
 
 Palvelukatalogi ja liityntäkatalogi eroavatkin toisistaan käyttötavoissa - palvelukatalogissa voidaan tarjota esimerkiksi linkki sähköiseen veroilmoitukseen, kun taas liityntäkatalogissa kuvataan miten sähköisen veroilmoituksen voisi esimerkiksi integroida suoraan yrityksen taloushallinnon järjestelmiin. Liityntäkatalogi tarjoaa näyteikkunan palveluväylään liittyneistä palveluista ja sisältää myös teknisen ylläpitovälineen siellä näytettäville tiedoille.
 
+Ensin tuodaan palvelun piiriin avoimet rajapinnat ja seuraavassa aallossa palveluväylän hallinnan piirissä olevat rajapinnat. 
+
 **Hajautettu hallinta**
 
 Liityntäkatalogeja on useita. Jokaisella toimialalla on oma katalogi, jota se hallinnoi, ohjaa ja opastaa sen hyödyntäjiä. Hyödyntäjät ovat rajapintojen tuottajia. Kansallisen tason liityntäkatalogin tietosisältö muodostuu aggregoimalla toimialakohtaisten katalogien tiedot yhteen paikkaan rajapintoja hyödyntämällä. 
