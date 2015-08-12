@@ -1,6 +1,7 @@
 ![logo](https://raw.githubusercontent.com/Digipalvelutehdas/jaetut-kaytannot/master/images/logo-new-100.png)
 
-# Liityntäkatalogi PoC & API-hallinta palvelu
+# eSuomi Service Development Kit 
+Liityntäkatalogi PoC & API-hallinta palvelu
 
 # 1. Palvelun kuvaus
 
