@@ -1,6 +1,6 @@
 ![logo](https://raw.githubusercontent.com/Digipalvelutehdas/jaetut-kaytannot/master/images/logo-929x173.png)
 
-# eSuomi Service Development Kit 
+# eSuomi Service Development Kit (APIKA)
 Liityntäkatalogi PoC & API-hallinta palvelu
 
 # 1. Palvelun kuvaus
