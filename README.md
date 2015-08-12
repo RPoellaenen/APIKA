@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/Digipalvelutehdas/jaetut-kaytannot/master/images/logo-new-100.png)
+![logo](https://raw.githubusercontent.com/Digipalvelutehdas/jaetut-kaytannot/master/images/logo-929x173.png)
 
 # eSuomi Service Development Kit 
 Liityntäkatalogi PoC & API-hallinta palvelu
