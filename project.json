@@ -1,4 +1,8 @@
 {
-   name: "APIKA",
-   desc: "Liityntäkatalogin PoC (API -hallinta)" 
+    "meta": {
+        "name": "APIKA",
+        "desc": "Liityntäkatalogin PoC (API -hallinta)",
+        "status": "planning",
+        "version": "0"
+    }
 }
