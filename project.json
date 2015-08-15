@@ -13,10 +13,12 @@
     },
     "repositories": {
         "repository" :{ 
+            "class": "main",
             "type" : "git",
             "url" : "https://github.com/npm/npm.git"
         },
         "repository" :{ 
+            "class": "code",
             "type" : "git",
             "url" : "https://v8.googlecode.com/svn/trunk/"
         }
