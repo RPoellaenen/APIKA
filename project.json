@@ -10,5 +10,15 @@
         "organization":"Ministry of Education and Culture",
         "name": "Jarkko Moilanen",
         "email": "jarkko.moilanen [at] minedu.fi"
+    },
+    "repositories": {
+        "repository" :{ 
+            "type" : "git",
+            "url" : "https://github.com/npm/npm.git"
+        },
+        "repository" :{ 
+            "type" : "git",
+            "url" : "https://v8.googlecode.com/svn/trunk/"
+        }
     }
 }
