@@ -3,7 +3,7 @@
         "name": "APIKA",
         "desc": "Liityntäkatalogin PoC (API -hallinta)",
         "status": "planning",
-        "version": "0",
+        "version": "0"
     },
     "productowner": {
         "organization":"Ministry of Education and Culture",
